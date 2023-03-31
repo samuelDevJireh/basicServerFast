@@ -1,0 +1,10 @@
+products=[
+    {"nombre":"Pantalon","precio":660.0,"categoria":["Mujer","ninos","Hombre"],"cantidad":4},
+    {"nombre":"Camisa","precio":860.0,"categoria":["Mujer","ninos","Hombre"],"cantidad":1},
+    {"nombre":"Blusa","precio":360.0,"categoria":["Mujer","ninos","Hombre"],"cantidad":10},
+    {"nombre":"Polo","precio":860.0,"categoria":["Mujer","ninos","Hombre"],"cantidad":5},
+    {"nombre":"Chamarra","precio":460.0,"categoria":["Mujer","ninos","Hombre"],"cantidad":9},
+    {"nombre":"Gorra","precio":190.0,"categoria":["Mujer","ninos","Hombre"],"cantidad":0},
+    {"nombre":"Gorra","precio":160.0,"categoria":["Mujer","ninos","Hombre"],"cantidad":0},
+    {"nombre":"Gorra","precio":200.0,"categoria":["Mujer","ninos","Hombre"],"cantidad":0},
+]
